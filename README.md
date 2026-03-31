@@ -3,3 +3,6 @@ preview of this book at http://seankross.com/bookdown-start/
 
 All of the content of this repository is licensed 
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## Suggested Contribution
+This is a helpful addition to the documentation.
